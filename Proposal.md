@@ -23,5 +23,5 @@ To approach this problem and try to answer these questions we are going to use t
  
 To make our project even more interactive, we would like to let the user add any artist into our dataset. So we will create an initial dataset with some artists pick us by us and make conclusions. Nevertheless, the dataset would be open for the users to add their choice of artists and that way be able to make their own conclusions.
 
-*Team Members: Chang Liu, Tomas Cabezon Pedroso, Hongyu Mao, Yang Bai*
+**Team Members:**  *Chang Liu, Tomas Cabezon Pedroso, Hongyu Mao, Yang Bai*
 
