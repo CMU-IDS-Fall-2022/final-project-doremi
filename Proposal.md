@@ -1,6 +1,9 @@
 # Final Project Proposal
 
-**GitHub Repo URL**: TODO
+**GitHub Repo URL**: https://github.com/CMU-IDS-Fall-2022/final-project-doremi 
+
+Team Members: Chang Liu, Tomas Cabezon Pedroso, Hongyu Mao, Yang Bai
+
 
 music has changed how we consume, produce, and distribute music. It also gives us another possibility to predict a successful approach in the music industry. However, visualizing all this data to make conclusions is very difficult. Creating an interactive data visualization application with this publicly available data could help us better understand this industry, compare artists or find trends.
 
