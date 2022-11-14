@@ -1,6 +1,22 @@
+
 # Final Project Proposal
 
+**With this project we would like to answer several questions:**
+
+Does the location of the artists influence their success? Is there a relationship between an artist's most streamed locations in the artist's international success? Are similar artists reproduced in similar places?
+1. Does the location of the artists influence their success? Is there a relationship between an artist's most streamed locations in the artist's international success? Are similar artists reproduced in similar places?
+—>  If I wanted to become the next Ed Sheeran, is there a country I should focus on?
+
+2. Do the characteristics of the music, features like danceability, liveness, valance, instrumentales… have an influence on the artist's success? Can we use these features to recommend similar music? Do the top items of each artist have similarities in character?
+2. Do the characteristics of the music, features like danceability, liveness, valance, instrumentales… have an influence on the artist's success? Can we use these features to recommend similar music? Do the top items of each artist have similarities in character?
+
+
+3. EXTRA: How can we bring an interesting interaction for the users to explore new music:
+At the end of the project, we could also bring a fun game for the audiences to help them explore some fun facts between popularity and their location. Ideally it could support the interaction between multi-users, like people in different regions. We can show how many songs could connect them together by associating the artists’ region or the lyrics of the songs. It’s also possible to let users explore what kind of music is most popular when they choose a country.
+
 **GitHub Repo URL**: https://github.com/CMU-IDS-Fall-2022/final-project-doremi 
+
+# Sketch
 
 ## Data Processing
 
